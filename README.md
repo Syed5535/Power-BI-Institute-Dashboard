@@ -1,6 +1,3 @@
-# Power-BI-Institute-Dashboard
-An interactive Power BI dashboard for analyzing student data at an educational institute.
-
 # 📊 Power BI Dashboard for ABC Institute
 
 > A comprehensive and interactive report built in Power BI to analyze student enrollment and financial performance for an educational institute.
@@ -9,7 +6,7 @@ An interactive Power BI dashboard for analyzing student data at an educational i
 
 ## Dashboard Preview
 
-Here is a preview of the final dashboard. The full interactive report is available in the `.pbix` file.
+Here is a preview of the final dashboard. The full interactive report is available at the end.
 
 <img width="680" height="383" alt="XYZ Institue Report" src="https://github.com/user-attachments/assets/4bae2082-ab1e-4879-99bf-274ec970dc41" />
 
@@ -78,9 +75,8 @@ The interactive dashboard now empowers ABC Institute’s management to make **in
 
 ---
 
-## 6. How to View  
-- Download the repository and open the **`.pbix` file** in Power BI Desktop.  
-- Explore the interactive dashboard with the available slicers.  
-- (Optional) Interact directly online [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjgyOGM1YzYtZGI0NC00NzJhLWI3YTAtZWViMzhiZDAzMjQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).  
+## 6. Final Dashboard Report  
+- Explore the interactive dashboard with the available slicers and functionality.  
+- Interact directly online [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjgyOGM1YzYtZGI0NC00NzJhLWI3YTAtZWViMzhiZDAzMjQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).  
 
 ---
